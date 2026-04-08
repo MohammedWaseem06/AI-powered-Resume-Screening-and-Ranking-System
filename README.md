@@ -53,19 +53,4 @@ An interactive web application that analyzes resumes based on a job description 
 ```
 
 
-## :memo: Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## :bulb: Inspiration
-
-This project was inspired by the desire to create an interactive tool for HR professionals to easily analyze job applicants' resumes.
-
-## :mailbox: Contact
-
-Have questions or feedback? Feel free to reach out via [aman07porwal@gmail.com](mailto:aman07porwal@gmail.com).
-
-##
-Developed with :heart: by Aman Porwal
-
 
