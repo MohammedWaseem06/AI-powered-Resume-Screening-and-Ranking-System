@@ -1,4 +1,4 @@
-An interactive web application that analyzes resumes based on a job description using natural language processing techniques. https://www.youtube.com/watch?v=0eo_5oyW11o&t=1s
+An interactive web application that analyzes resumes based on a job description using natural language processing techniques. 
 
 ## :rocket: Features
 
